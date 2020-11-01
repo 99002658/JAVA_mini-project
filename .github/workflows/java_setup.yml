@@ -14,4 +14,4 @@ jobs:
         with:
           java-version: '9.0.4'
           java-package: jdk
-      - run: java -cp java QuizSimulation/QuizSimulation
+      - run: java -cp java QuizSimulation
