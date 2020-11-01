@@ -1,1 +1,2 @@
-# JAVA_mini-project
+# JAVA_mini-project: MCQ Quiz Simulation
+------------------------------------------
