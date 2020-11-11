@@ -3,7 +3,7 @@
 *This is a simulation of an MCQ based quiz on General Knowledge built using JAVA. There are 10 questions in the quiz which can be answered by the user, at the end of which the number of correct answers will be displayed in a dialog-box called result. There is also a provision for the user/s taking the quiz to reconsider the questions they're answering in case they want to revisit those questions and change their answers. The quiz has a systematic flow, i.e., the result is displayed only when all the questions have been answered in an orderly fashion.*
 |CI/CD|Codacy: Code Quality|
 |-----|--------------------|
-|![Maven CI/CD](https://github.com/99002658/JAVA_mini-project/workflows/Maven%20CI/CD/badge.svg)||
+|![Maven CI/CD](https://github.com/99002658/JAVA_mini-project/workflows/Maven%20CI/CD/badge.svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/09d322b45cac4d518bd64307059f2b96)](https://www.codacy.com/gh/99002658/JAVA_mini-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002658/JAVA_mini-project&amp;utm_campaign=Badge_Grade)|
 ---
 
 ## Setting up of system/s for execution of JAVA files:
