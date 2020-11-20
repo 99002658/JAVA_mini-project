@@ -24,7 +24,7 @@ __*Repository Badges:*__
     ---
             javac QuizSimulation.java
     ---
-## Then run the program using the following command:
+# Then run the program using the following command:
     ---
             java QuizSimulation
     ---
