@@ -13,7 +13,7 @@ __*Repository Badges:*__
 |CI/CD|Codacy: Code Quality|Pull Requests|Last Edit|
 |-----|--------------------|-------------|---------|
 |![Maven CI/CD](https://github.com/99002658/JAVA_mini-project/workflows/Maven%20CI/CD/badge.svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/09d322b45cac4d518bd64307059f2b96)](https://www.codacy.com/gh/99002658/JAVA_mini-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002658/JAVA_mini-project&amp;utm_campaign=Badge_Grade)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/99002658/JAVA_mini-project)|![GitHub last commit](https://img.shields.io/github/last-commit/99002658/JAVA_mini-project)|
-
+ 
 ## Setting up of system/s for execution of JAVA files
 * The latest version of 'Java Development Kit (JDK)' can be downloaded from [here](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html).
 
