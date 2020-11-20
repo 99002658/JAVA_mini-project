@@ -17,7 +17,7 @@ __*Repository Badges:*__
 ## Setting up of system/s for execution of JAVA files
 * The latest version of 'Java Development Kit (JDK)' can be downloaded from [here](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html).
 
-## Execution of JAVA files:
+## Execution of JAVA files
 * Clone the repository to the machine where the files are needed.
 * Start the compilation of the JAVA program using the following command:
     ---
