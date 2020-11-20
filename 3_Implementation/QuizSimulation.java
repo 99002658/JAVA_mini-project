@@ -5,7 +5,8 @@ class QuizSimulation extends JFrame implements ActionListener
 {
 	JLabel label;
 	JRadioButton btn[] = new JRadioButton[5];                                            //btn is an array of radio buttonids for the options of the questions
-	JButton b1,b2;                                                                       //button ids for interacting directly with the dialog box
+	JButton b1;
+	JButton b2;                                                                       //button ids for interacting directly with the dialog box
 	ButtonGroup bg;
 	int count = 0;                                                                       //counter for keeping a tab on the number of correct answers 
 	int current = 0;                                                                     //counter for keeping track of current question
